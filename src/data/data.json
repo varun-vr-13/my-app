@@ -1,0 +1,27 @@
+{
+    "profiles":[
+        {
+        "basic":{
+            "name":"D.Varun",
+            "phone":7898906542,
+            "email":"dvarun@gmail.com",
+            "roll":"183J10543",
+            "add":"Visakhapatnam",
+            "id":"id1",
+            "img":"img"
+
+        }
+    },
+       {
+        "basic":{
+            "name":"D.varun",
+            "phone":8967809876,
+            "email":"varun23@gmail.com",
+            "roll":"183j1a0541",
+            "add":"Visakhapatnam",
+            "id":"id2",
+            "img":"img1"
+        }
+    }
+    ]
+}
